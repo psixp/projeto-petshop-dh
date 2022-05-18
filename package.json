@@ -1,0 +1,26 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalHouseBrasil/petshop-front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalHouseBrasil/petshop-front/issues"
+  },
+  "homepage": "https://github.com/DigitalHouseBrasil/petshop-front#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
